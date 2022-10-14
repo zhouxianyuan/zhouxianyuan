@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Zhouxianyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouxianyuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=zhouxianyuan&color=grey)
+
+[![Zhouxianyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouxianyuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouxianyuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
