@@ -1,4 +1,4 @@
-### Hi give up in my dreams and die 👋
+###  Give up in my dreams and die ☠️
 
 <!--
 **zhouxianyuan/zhouxianyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
